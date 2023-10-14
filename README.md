@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my games are available at itch.io: [https://rq1d.itch.io/](https://rq1d.itch.io/)
 
-- 📫 How to reach me **krenichraid@gmail.com**
+- 📫 How to reach me: **krenichraid@gmail.com**
 
 - ⚡ Fun fact **I'm also a Pianist.**
 
