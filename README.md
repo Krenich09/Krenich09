@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raid Krenich</h1>
 <h3 align="center">A game/app developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krenich09&label=Profile%20views&color=0e75b6&style=flat" alt="krenich09" /> </p>
 
 - 👨‍💻 All of my games are available at itch.io: [https://rq1d.itch.io/](https://rq1d.itch.io/)
 
